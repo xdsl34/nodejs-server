@@ -1,0 +1,40 @@
+{
+    "Products": [
+        {
+            "name": "Product1",
+            "description": "description 1",
+            "sku": "11111111",
+            "type": {
+                "main": "type1",
+                "second": "type12a"
+            }
+        },
+        {
+            "name": "Product2",
+            "description": "description 1",
+            "sku": "11111112",
+            "type": {
+                "main": "type1",
+                "second": "type12c"
+            }
+        },
+        {
+            "name": "Product12",
+            "description": "description 1",
+            "sku": "11111113",
+            "type": {
+                "main": "type1b",
+                "second": "type12c"
+            }
+        },
+        {
+            "name": "Product15",
+            "description": "description 1",
+            "sku": "11111114",
+            "type": {
+                "main": "type1b",
+                "second": "type12z"
+            }
+        }
+    ]
+}
